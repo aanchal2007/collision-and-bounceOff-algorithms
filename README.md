@@ -1,2 +1,2 @@
-# collision-and-bounceOff-algorithms
-This contains the library which has the bounceOff and collision algorithms
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
